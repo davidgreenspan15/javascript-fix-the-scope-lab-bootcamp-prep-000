@@ -17,8 +17,9 @@ function add2(n) {
 }
 
 function theFunk(){
-console.log("Funky!")}
-
+var funky = 'FUNKY!'
+return funky
+}
 function funkyFunction() {
  return theFunk
      
