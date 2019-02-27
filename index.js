@@ -15,14 +15,14 @@ function add2(n) {
   // Feel free to move things around!
   const two = 2
 }
-var funky = 'FUNKY!'
+
 function theFunk(){
 
 return funky
 }
 function funkyFunction() {
  return theFunk
-     
+     var funky = 'FUNKY!'
   }
 
 
