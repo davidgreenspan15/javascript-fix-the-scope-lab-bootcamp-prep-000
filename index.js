@@ -17,7 +17,7 @@ function add2(n) {
 }
 
 function theFunk(){
-conlose.log theFunk
+conlose.log `${theFunk}`
 var theFunk = 'FUNKY!' 
 }
 function funkyFunction() {
