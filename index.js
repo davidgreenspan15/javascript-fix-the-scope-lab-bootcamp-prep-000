@@ -23,7 +23,7 @@ return theFunk
 
 function funkyFunction() {
  var theFunk = funkyFunction()
- console.log `${theFunk}`
+ return theFunk
 
    
   }
