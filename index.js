@@ -15,7 +15,7 @@ function add2(n) {
   // Feel free to move things around!
   const two = 2
 }
- var theFunk = 'FUNKY!'
+
 function theFunk(){
 var theFunk = funkFunction()
 return theFunk
