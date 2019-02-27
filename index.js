@@ -22,7 +22,7 @@ return theFunk
  
 }
 function funkyFunction() {
- var funkFunction = theFunk()
+ 
  return thefunk
    
   }
