@@ -22,7 +22,7 @@ return theFunk
 }
 
 var funkyFunction= function outsideFucntion(){
-  return 
+  return function insideFunction
 }
 
    
