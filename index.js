@@ -22,7 +22,7 @@ conlose.log `${theFunk}`
 var theFunk = funkyFunction()
 }
 function funkyFunction() {
- return theFunk
+ return funkyFunction
     var theFunk = 'FUNKY!' 
   }
 
