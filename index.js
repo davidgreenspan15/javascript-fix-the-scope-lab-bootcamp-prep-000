@@ -21,7 +21,7 @@ function theFunk(){
 return theFunk
 }
 
-function
+var fuc
 
    
   }
