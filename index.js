@@ -15,11 +15,11 @@ function add2(n) {
   // Feel free to move things around!
   const two = 2
 }
-
+ var theFunk = 'FUNKY!'
 function theFunk(){
-var theFunk = 
-return 
-  var theFunk = 'FUNKY!'
+var theFunk = funkFunction()
+return theFunk
+ 
 }
 function funkyFunction() {
  return theFunk
