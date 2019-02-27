@@ -21,10 +21,10 @@ function theFunk(){
 return theFunk
 }
 
-var fuc
+var funkyFunction=
 
    
-  }
+  
 
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
