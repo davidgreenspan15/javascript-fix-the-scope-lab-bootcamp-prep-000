@@ -17,12 +17,12 @@ function add2(n) {
 }
 
 function theFunk(){
-
+var funky = 'FUNKY!'
 return funky
 }
 function funkyFunction() {
  return theFunk()
-     var funky = 'FUNKY!'
+     
   }
 
 
