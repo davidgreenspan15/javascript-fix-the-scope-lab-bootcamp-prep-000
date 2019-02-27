@@ -22,8 +22,8 @@ return theFunk
  
 }
 function funkyFunction() {
- var thefunk = theFunk()
- return thefunk
+ var theFunction = 'FUNKY!'
+ return theFunction
    
   }
 
