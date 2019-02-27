@@ -18,12 +18,12 @@ function add2(n) {
 
 function theFunk(){
 conlose.log `${theFunk}`
-var theFunk = 'FUNKY!' 
+
 var theFunk = funkyFunction()
 }
 function funkyFunction() {
  return theFunk
-    
+    var theFunk = 'FUNKY!' 
   }
 
 
