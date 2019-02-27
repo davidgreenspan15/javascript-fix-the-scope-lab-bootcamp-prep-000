@@ -17,13 +17,13 @@ function add2(n) {
 }
 
 function theFunk(){
-conlose.log `${theFunk}`
 
-var theFunk = funkyFunction()
+return theFunk
+var theFunk = 'FUNKY!' 
 }
 function funkyFunction() {
- return funkyFunction
-    var funkyFunction = 'FUNKY!' 
+ return theFunk
+    
   }
 
 
